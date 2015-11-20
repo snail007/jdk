@@ -1,5 +1,5 @@
 #!/bin/bash
-tar zxfv jdk-8u5-linux-x64.tar.gz 
+tar zxfv jdk8.tar.gz 
 tar zxfv lib.tar.gz
 mv lib jdk1.8.0_05/lib
 mv jdk1.8.0_05 /usr/local/
